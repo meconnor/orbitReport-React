@@ -1,3 +1,5 @@
+import "./styling.css";
+
 const Banner = () => {
     return(
         <div>
